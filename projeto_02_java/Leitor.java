@@ -1,3 +1,4 @@
+package projeto_02_java;
 import java.util.Scanner;
 
 public class Leitor {

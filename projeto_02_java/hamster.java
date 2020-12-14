@@ -1,3 +1,5 @@
+package projeto_02_java;
+
 public class hamster{
         int energia;
         int fome;
