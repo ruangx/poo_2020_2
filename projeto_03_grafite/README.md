@@ -1,2 +1,2 @@
 # Relatório Semana 3
-  - Essa semana fiz o projeto na moto infatil, porém tira um problema com a Main interativa, póis quando digito o nome da pessoa, aparece como null e não sei como resolver esse erro,
+  - Essa semana fiz o projeto na moto infatil, porém tira um problema com a Main interativa, póis quando digito o nome da pessoa, aparece como null e não sei como resolver esse erro, o projeto desse semana levou um pouco mais tempo do que a anteiror por fiz essa modo da main interativa que tinha lgumas dificuldades, mas apenas dos erros eu acabei descobrindo como ela funcionava e pus em prática. Tive algumas dúvidas que tirei com os colegas e no material disponibilizado aqui no github.
