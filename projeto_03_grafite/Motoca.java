@@ -28,7 +28,7 @@ public class Motoca {
     void subir(Pessoa pessoa){
         if (pass == null){
             pass = pessoa;
-            System.out.println(pessoa.nome + " Vamos andar!");
+            System.out.println(pessoa.nome + "Vamos andar!");
         } else{
             System.out.println("Já tem gente na moto!");
         }
