@@ -1,6 +1,5 @@
 # Relatório Semana 2
- - O que: 
-  - ssdsdsdsdsdsd 
- - Com quem e como: eu e Fulano fizemos um live share e discutimos as ideias revendo os códigos da semana e adaptando.
- - Aprendizado: Aprendi direito, mas ainda estou com dificuldade no laço principal da main e na compreensão de como os objetos e classes funcionam.
- - Tempo: juntando leitura da apostila, revisão dos vídeos e programação foram umas 4 horas.
+ - 1. O que: Fiz o codigo de uma pessoa queler livros, pedendendo dasua animação e energia.
+ - 2. Com quem e como: Fiz o código quase todo sozinho, pedindo a ajuda só de uam amiga de sala (Larah) que me ajudasse com a parte interativa, pois estava com dúvida.
+ - 3. Aprendizado: Aprendi a usar os meétodos e as classes.
+ - 4. Tempo: evou em volta de duas horas.
