@@ -1,2 +1,6 @@
 # Relatório Semana 3
-  - Essa semana fiz o projeto na moto infatil, porém tira um problema com a Main interativa, póis quando digito o nome da pessoa, aparece como null e não sei como resolver esse erro, o projeto desse semana levou um pouco mais tempo do que a anteiror por fiz essa modo da main interativa que tinha lgumas dificuldades, mas apenas dos erros eu acabei descobrindo como ela funcionava e pus em prática. Tive algumas dúvidas que tirei com os colegas e no material disponibilizado aqui no github.
+ - 1. O que: Fiz o código da motoca infantil.
+ - 2. Com quem e como: Fiz sozinho, mas tive algumas dúvidas e tirei como base o código que a sala fez.
+ - 3. Aprendizado: Aprendi como usar a main iterativa, mesmo que com um pequeno erro.
+ - 4. Tempo: Levei em média 3 horas.
+
