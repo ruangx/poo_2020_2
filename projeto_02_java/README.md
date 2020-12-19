@@ -1,2 +1,6 @@
 # Relatório Semana 2
- - Essa semana fiz um codigo de uma pessoa que ler livros, baseado na sua animação e energia, foi fácil porém um pouco demorado para pegar os comandos, utilizei como base a apostila disponibilizada, além de a ajuda de uma colega de classe, tive um pouc de dúvidas ainda como utilizar a main interativa.
+ - O que: 
+  - a
+ - Com quem e como: eu e Fulano fizemos um live share e discutimos as ideias revendo os códigos da semana e adaptando.
+ - Aprendizado: Aprendi direito, mas ainda estou com dificuldade no laço principal da main e na compreensão de como os objetos e classes funcionam.
+ - Tempo: juntando leitura da apostila, revisão dos vídeos e programação foram umas 4 horas.
