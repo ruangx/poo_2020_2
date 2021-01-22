@@ -67,7 +67,7 @@ public class Motoca {
     
     public static void main(String[] args){
         Motoca motinha = new Motoca(1,0);
-        Pessoa pass = new Pessoa("", 10);
+        Pessoa pass = new Pessoa(" ", 10);
         Scanner scanner = new Scanner(System.in);
         while(true){
             String line = scanner.nextLine();
