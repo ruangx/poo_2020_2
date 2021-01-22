@@ -11,7 +11,7 @@ public class Tamagotchi{
     private int age;
     private int diamonds;
     private boolean alive = true;
-
+               //   10
     Tamagotchi(int energiaMax, int hungryMax, int cleanMax){
         this.energiaMax = energiaMax;
         this.energia = this.energiaMax;
@@ -24,14 +24,16 @@ public class Tamagotchi{
         this.alive = true;
     }
 
+
     private void setEnergia(int valor){
-        if(energia == energiaMax){
+        if(valor > energiaMax){
             this.energia = energiaMax;
-        }
-        if(energia <= 0){
+        }else if(valor <= 0){
             this.energia = 0;
             this.alive = false;
             System.out.println("Morreu de cansaço!");
+        }else{
+            this.energia = valor;
         }
     }
 
@@ -40,13 +42,14 @@ public class Tamagotchi{
     }
 
     private void setHungry(int valor){
-        if(hungry == hungryMax){
+        if(valor > hungryMax){
             this.hungry = hungryMax;
-        }
-        if(hungry <= 0){
+        }else if(valor <= 0){
             this.hungry = 0;
             this.alive = false;
-            System.out.println("Morreu de fome!");
+            System.out.println("Morreu de Fome!");
+        }else{
+            this.energia = valor;
         }
     }
 
@@ -55,13 +58,14 @@ public class Tamagotchi{
     }
 
     private void setClean(int valor){
-        if(clean == cleanMax){
+        if(valor > cleanMax){
             this.clean = cleanMax;
-        }
-        if(clean <= 0){
+        }else if(valor <= 0){
             this.clean = 0;
             this.alive = false;
             System.out.println("Morreu de sujeira!");
+        }else{
+            this.clean = valor;
         }
     }
 
@@ -160,7 +164,6 @@ class game{
             }
         }
         scanner.close();
-
-    }
+    } 
 }
 
