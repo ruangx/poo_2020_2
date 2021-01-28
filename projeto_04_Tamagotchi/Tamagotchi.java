@@ -1,4 +1,4 @@
-package projeto_04_ArryList;
+package projeto_04_Tamagotchi;
 import java.util.Scanner;
 
 public class Tamagotchi{
