@@ -176,4 +176,3 @@ public class Tarifa {
             scanner.close();
     }
 } 
-
