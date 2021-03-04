@@ -53,12 +53,16 @@ class Telefone {
     String label;
     String number;
    
-   Telefone(String serial) {
-      String array[] = serial.split(":");
-      label = array[0];
-      number = array[1];
-
-   }
+    Telefone(String label, String number) {
+        this.label=label;
+        this.number=number;
+     }
+    
+    public Telefone (String combo) {
+        String array[] = combo.split(":");
+        label = array[0];
+        number = array[1];
+    }
    
     String getLabel(){
     return this.label;
